@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+@media (max-width: 360px){
+p[class^="button"]{
+	border-radius: 10px;
+	width: 120px;
+	height: 144px;
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	padding: 17px;
+	border: 50px;
+	border-color: #606060;
+	display:inline-flex;
+}
+.button1{
+	background-color:#f7fade;
+}
+.button2{
+	background-color:#dfedd6;
+}
+div{
+	padding: 17px;
+}
+}
