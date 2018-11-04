@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo');
-/*@media screen and (min-width:1600px) {
+@media only screen and (min-width:1600px) {
 p[class^="button"]{
 	border-radius: 10px;
 	width: 120px;
@@ -12,7 +12,7 @@ p[class^="button"]{
 	display: flex;
 	align-items: center;	
 	justify-content: center;
-	margin: 0px;
+	margin: 15px;
 }
 .button1{
 	background-color:#f7fade;
@@ -20,7 +20,5 @@ p[class^="button"]{
 .button2{
 	background-color:#dfedd6;
 }
-div{
-	padding: 15px;
+
 }
-}*/
