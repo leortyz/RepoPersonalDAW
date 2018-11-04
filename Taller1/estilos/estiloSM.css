@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo');
-@media (max-width: 360px){
 p[class^="button"]{
 	border-radius: 10px;
 	width: 120px;
 	height: 144px;
 	font-family: 'Baloo', cursive;
 	font-size: 36px;
-	padding: 17px;
-	border: 50px;
+	border-width: 2px;
 	border-color: #606060;
-	display:inline-flex;
+	border-style: solid;
+	padding: 0px 0px 0px 17px;
+	margin: 0px;
 }
 .button1{
 	background-color:#f7fade;
@@ -17,7 +17,7 @@ p[class^="button"]{
 .button2{
 	background-color:#dfedd6;
 }
-div{
-	padding: 17px;
+.contenedor{
+	display: inline;
 }
-}
+
