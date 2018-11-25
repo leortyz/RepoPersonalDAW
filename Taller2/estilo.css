@@ -1,0 +1,29 @@
+#buscador, .buscar{
+  box-shadow: 0px 5px 15px -1px ;
+  -moz-box-shadow: 0px 5px 15px -1px;
+  -webkit-box-shadow: 0px 5px 15px -1px;
+}
+
+.buscar{
+  background-color:rgba(85,100,235,1);
+  border-color: rgba(0,113,188,1);
+  text-align: center;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+#busqueda{
+  background-color: rgba(85,100,235,1);
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  padding: 15px;
+  border-radius: 5px;
+ }
+
+.card-header{
+  background-color: white;
+  border: none;
+}
+ 
